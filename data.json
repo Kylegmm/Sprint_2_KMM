@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Alex",
+        "age": 28,
+        "hobbies": ["reading", "woodworking", "coding"],
+        "isStudent": true,
+        "address": {
+            "city": "Mount Pearl",
+            "country": "Canada"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Brianna",
+        "age": 32,
+        "hobbies": ["painting", "watch repair", "poetry"],
+        "isStudent": false,
+        "address": {
+            "city": "St. John's",
+            "country": "Canada"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Chris",
+        "age": 24,
+        "hobbies": ["gaming", "hiking", "photography"],
+        "isStudent": true,
+        "address": {
+            "city": "Toronto",
+            "country": "Canada"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Dana",
+        "age": 29,
+        "hobbies": ["yoga", "creative writing", "cooking"],
+        "isStudent": false,
+        "address": {
+            "city": "Vancouver",
+            "country": "Canada"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Evan",
+        "age": 35,
+        "hobbies": ["traveling", "blogging", "cycling"],
+        "isStudent": true,
+        "address": {
+            "city": "Halifax",
+            "country": "Canada"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Fiona",
+        "age": 26,
+        "hobbies": ["photography", "painting", "sculpting"],
+        "isStudent": false,
+        "address": {
+            "city": "Calgary",
+            "country": "Canada"
+        }
+    }
+]
